@@ -71,6 +71,6 @@ It happened sometimes that I had to replug the module to get it to work again.
 * @1248 cc2538-prog - https://github.com/1248/cc2538-prog/
 
 # License
-[CC-BY-SA-NC 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/de/)
+[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 cod.m GmbH, Patrik Mayer, 2020
