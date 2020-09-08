@@ -1,7 +1,8 @@
 # cod.m ZigBee CC2538 Raspberry Pi module
 [ZigBee CC2538 Raspberry Pi Coordinator](https://shop.codm.de/automation/zigbee/29/zigbee-cc2538-raspberry-pi-modul) - a ZigBee Coordinator designed for the GPIO of the Raspberry Pi running Z-Stack Firmware 3.0.x.
+The used CC2538 module has an onboard CC2592 PA/LNA for range extension. Together with an external antenna this should make - depending on your surrounding - for a very good coverage.
 
-According to [koenkk](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator) this allows for up to 100 direct children and 200/400 routes directly on the coordinator. Keep in mind that the size of a ZigBee mesh is not defined by the count iof possible direct children of the coordinator.
+According to [koenkk](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator) the CC2538 allows for up to 100 direct children and 200/400 routes directly on the coordinator. Keep in mind that the size of a ZigBee mesh is not defined by the count iof possible direct children of the coordinator, see https://www.zigbee2mqtt.io/information/FAQ.html#i-read-that-zigbee2mqtt-has-a-limit-of-20-devices-is-this-true
 
 If you are interessted in the development of the module, take a look here: https://github.com/Koenkk/zigbee2mqtt/issues/1568#issuecomment-670571253
 
