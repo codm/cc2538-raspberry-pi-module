@@ -3562,7 +3562,7 @@ Copyright: Würth Elektronik</description>
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules name="aisler_2_layer *">
+<designrules name="aisler_2_layer">
 <description language="de">&lt;b&gt;EAGLE Design Rules&lt;/b&gt;
 &lt;p&gt;
 Die Standard-Design-Rules sind so gewählt, dass sie für 
@@ -3580,7 +3580,7 @@ design rules under a new name.</description>
 <param name="layerSetup" value="(1*16)"/>
 <param name="mtCopper" value="0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm"/>
 <param name="mtIsolate" value="1.5mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm"/>
-<param name="mdWireWire" value="0.1mm"/>
+<param name="mdWireWire" value="0.15mm"/>
 <param name="mdWirePad" value="0.1mm"/>
 <param name="mdWireVia" value="0.1mm"/>
 <param name="mdPadPad" value="0.1mm"/>
