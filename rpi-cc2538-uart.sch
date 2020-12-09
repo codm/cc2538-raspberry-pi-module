@@ -152,7 +152,7 @@
 <libraries>
 <library name="codm" urn="urn:adsk.eagle:library:11602856">
 <packages>
-<package name="CC2538-CN" urn="urn:adsk.eagle:footprint:21916106/3" library_version="33">
+<package name="CC2538-CN" urn="urn:adsk.eagle:footprint:21916106/4" library_version="38">
 <wire x1="0" y1="0" x2="32" y2="0" width="0.127" layer="21"/>
 <wire x1="32" y1="0" x2="32" y2="20.5" width="0.127" layer="21"/>
 <wire x1="32" y1="20.5" x2="0" y2="20.5" width="0.127" layer="21"/>
@@ -186,45 +186,45 @@
 <wire x1="31" y1="4" x2="27" y2="4" width="0.127" layer="21"/>
 <wire x1="31" y1="14" x2="31" y2="17" width="0.127" layer="21"/>
 <wire x1="31" y1="17" x2="25" y2="17" width="0.127" layer="21"/>
-<smd name="PA0" x="2.54" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA1" x="3.81" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA2" x="5.08" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA3" x="6.35" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA4" x="7.62" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA5" x="8.89" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA6" x="10.16" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PA7" x="11.43" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PD0" x="12.7" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PD1" x="13.97" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="RST" x="15.24" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PD3" x="16.51" y="0" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB1" x="2.54" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB2" x="3.81" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB3" x="5.08" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB4" x="6.35" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB5" x="7.62" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB6" x="8.89" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PB7" x="10.16" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="TCK" x="11.43" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="TMS" x="12.7" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="VCC" x="13.97" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="GND@2" x="15.24" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="GND@1" x="16.51" y="20.5" dx="1.4224" dy="0.7112" layer="1" rot="R90"/>
-<smd name="PC0" x="0" y="5.2" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
-<smd name="PC1" x="0" y="6.47" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
-<smd name="PC4" x="0" y="7.74" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
-<smd name="PC5" x="0" y="9.01" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
-<smd name="PC6" x="0" y="10.28" dx="1.4224" dy="0.7112" layer="1"/>
-<smd name="PC7" x="0" y="11.55" dx="1.4224" dy="0.7112" layer="1"/>
-<smd name="PB0" x="0" y="12.82" dx="1.4224" dy="0.7112" layer="1"/>
-<smd name="USBN" x="0" y="14.09" dx="1.4224" dy="0.7112" layer="1"/>
-<smd name="USBP" x="0" y="15.36" dx="1.4224" dy="0.7112" layer="1"/>
+<smd name="PA0" x="2.54" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA1" x="3.81" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA2" x="5.08" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA3" x="6.35" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA4" x="7.62" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA5" x="8.89" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA6" x="10.16" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PA7" x="11.43" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PD0" x="12.7" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PD1" x="13.97" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="RST" x="15.24" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PD3" x="16.51" y="0" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB1" x="2.54" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB2" x="3.81" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB3" x="5.08" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB4" x="6.35" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB5" x="7.62" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB6" x="8.89" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PB7" x="10.16" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="TCK" x="11.43" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="TMS" x="12.7" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="VCC" x="13.97" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="GND@2" x="15.24" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="GND@1" x="16.51" y="20.5" dx="1.4732" dy="0.8128" layer="1" rot="R90"/>
+<smd name="PC0" x="0" y="5.2" dx="1.4732" dy="0.8128" layer="1" rot="R180"/>
+<smd name="PC1" x="0" y="6.47" dx="1.4732" dy="0.8128" layer="1" rot="R180"/>
+<smd name="PC4" x="0" y="7.74" dx="1.4732" dy="0.8128" layer="1" rot="R180"/>
+<smd name="PC5" x="0" y="9.01" dx="1.4732" dy="0.8128" layer="1" rot="R180"/>
+<smd name="PC6" x="0" y="10.28" dx="1.4732" dy="0.8128" layer="1"/>
+<smd name="PC7" x="0" y="11.55" dx="1.4732" dy="0.8128" layer="1"/>
+<smd name="PB0" x="0" y="12.82" dx="1.4732" dy="0.8128" layer="1"/>
+<smd name="USBN" x="0" y="14.09" dx="1.4732" dy="0.8128" layer="1"/>
+<smd name="USBP" x="0" y="15.36" dx="1.4732" dy="0.8128" layer="1"/>
 <circle x="25" y="19" radius="0.8" width="0.127" layer="21"/>
 <circle x="25" y="19" radius="0.1" width="0.127" layer="21"/>
 </package>
 </packages>
 <packages3d>
-<package3d name="CC2538-CN" urn="urn:adsk.eagle:package:21916107/4" type="model" library_version="33">
+<package3d name="CC2538-CN" urn="urn:adsk.eagle:package:21916107/5" type="model" library_version="38">
 <packageinstances>
 <packageinstance name="CC2538-CN"/>
 </packageinstances>
@@ -286,7 +286,7 @@ Module</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="CC2538-CN" urn="urn:adsk.eagle:component:21916108/5" library_version="33">
+<deviceset name="CC2538-CN" urn="urn:adsk.eagle:component:21916108/6" library_version="38">
 <description>CC2538 + CC2592 typical Chinese Module black/green
 
 &lt;br&gt;&lt;br&gt;
@@ -332,7 +332,7 @@ https://github.com/uzsito/CC2538-CC2592-kicad-component</description>
 <connect gate="G$1" pin="VCC" pad="VCC"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:21916107/4"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:21916107/5"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -14157,7 +14157,7 @@ DIN A4, landscape with location and doc. field</description>
 </class>
 </classes>
 <parts>
-<part name="U$1" library="codm" library_urn="urn:adsk.eagle:library:11602856" deviceset="CC2538-CN" device="" package3d_urn="urn:adsk.eagle:package:21916107/4"/>
+<part name="U$1" library="codm" library_urn="urn:adsk.eagle:library:11602856" deviceset="CC2538-CN" device="" package3d_urn="urn:adsk.eagle:package:21916107/5"/>
 <part name="JP1" library="pinhead" deviceset="PINHD-2X5" device="" override_package3d_urn="urn:adsk.eagle:package:22254121/2" override_package_urn="urn:adsk.eagle:footprint:22254122/1"/>
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="A/3216-18W" package3d_urn="urn:adsk.eagle:package:23408/2" override_package3d_urn="urn:adsk.eagle:package:22254313/2" override_package_urn="urn:adsk.eagle:footprint:22913/1" value="33u"/>
 <part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1k"/>
